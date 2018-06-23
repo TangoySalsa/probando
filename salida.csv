@@ -1,0 +1,71 @@
+nombre_producto,fecha,tipo,categoria,precio_lista,precio_descuento,descripcion_producto
+adc_aceitunas,10/23/17,adic,salad,600,600,Adic. De Aceitunas Negras
+adc_aguacate,9/26/17,adic,salad,600,600,Adic. de aguacate
+adc_almendras,2/1/18,adic,salad,500,500,Adicional de Almendras
+adc_atun,9/23/17,adic,salad,1500,1500,Adic. de Atun Fresco para ensalada
+adc_atun_sushi,9/21/17,adic,sushi,1500,1500,Adic. de Atun Fresco para Sushi
+adc_camaron,8/17/17,adic,salad,1500,1500,Adic. de camarones al vapor
+adc_camaron_sushi,9/21/17,adic,sushi,1500,1500,Adic. de Camarones para Sushi
+adc_edamame,9/27/17,adic,sushi,700,700,Adic. de Edamame
+adc_integral,11/11/17,adic,sushi,500,500,Arroz Integral
+adc_kanikama,9/27/17,adic,sushi,1500,1500,Adic. de Cangrejo Kanicama
+adc_parmesano,10/9/17,adic,salad,990,990,Adic. de queso Parmesano
+adc_pollo,8/17/17,adic,salad,1000,1000,Adic. de pollo a la plancha
+adc_pollo_sushi,9/21/17,adic,sushi,1000,1000,Adic. de Pollo Teriyaki
+adc_queso_blue,10/23/17,adic,salad,600,600,Adic. Queso Blue
+adc_quinoa,2/1/18,adic,buddha,500,500,Adicional de Quinoa Organica
+adc_soya_gluten_free,11/3/17,adic,sushi,800,800,Adic. de Salsa de Soya Gluten Free
+adc_tofu,11/13/17,adic,salad,1000,1000,Adic. de Tofu
+adc_trucha,8/17/17,adic,salad,1300,1300,Adic. de trucha ahumada
+adc_trucha_sushi,9/21/17,adic,sushi,1300,1300,Adic. de Trucha Ahumada para Sushi
+adc_vegetales_sushi,10/18/17,adic,sushi,600,600,Adic. de Vegetales para Sushi
+adc_wasabi,2/9/18,adic,sushi,600,600,Adicional de Wasabi
+agua_botella,9/28/17,bebida,refresco,600,600,Botella de Agua 
+buddha_arco_iris,1/12/18,bowl,buddha,4490,4490,Buddha Bowl Arco Iris
+buddha_asiatico,1/12/18,bowl,buddha,4990,4990,Buddha Bowl Asiatico
+buddha_detox,11/9/17,bowl,buddha,4490,4490,Buddha Bowl Detox 
+buddha_greeck,1/30/18,bowl,buddha,4490,4490,Buddha Bowl Griego
+buddha_green,1/30/18,bowl,buddha,4990,4990,Buddha Bowl Green
+coca_light_600,8/17/17,bebida,refresco,1100,1100,Coca Light 600 ml
+coca_reg_600,9/21/17,bebida,refresco,1100,1100,Coca Reg 600 ml
+express_brasil_mora,3/8/18,express,express,1300,1300,Express a Brasil de Mora
+express_ciudad_colon,10/20/17,express,express,1800,1800,Express a Ciudad Colon
+express_heredia,11/3/17,express,express,1800,1800,Express a Heredia
+express_heredia,3/2/18,express,express,2500,2500,Servicio Express a Heredia
+express_pavas,10/23/17,express,express,1300,1300,Express a Pavas
+express_pavas_2,3/14/18,express,express,650,650,Express a Pavas - 2
+express_sabana,10/23/17,express,express,1300,1300,Express a Sabana
+express_sabana_2,2/2/18,express,express,650,650,Express a La Sabana - 2
+express_sabana_3,2/9/18,express,express,435,435,Tercera parte de Express a La Sabana
+express_san_antonio,10/20/17,express,express,1300,1300,Express a San Antonio Escazu
+express_san_jose,10/20/17,express,express,1500,1500,Express a San Jose
+ginger,11/14/17,bebida,refresco,1100,1100,Ginger Ale Canada Dry
+mini_sushi_pollo,8/23/17,bowl-mini,sushi,1750,1750,Mini Sushi Bowl Pollo con Limon
+mini_sushi_trucha,8/17/17,bowl-mini,sushi,1800,1800,Mini Sushi Bowl Trucha Ahumada
+salad_nene,8/1/17,bowl,salad,3990,3990,Salad Bowl Nene
+salad_quinoa,8/1/17,bowl,salad,3990,3990,Salad Bowl Quinoa
+salad_senor,8/1/17,bowl,salad,3990,3990,Salad Bowl Senor Salad
+salad_tana,8/1/17,bowl,salad,3990,3990,Salad Bowl La Tana
+salad_tana_quinoa,9/11/17,bowl,salad,3990,3990,Salad Bowl Quinoa Mediterranea
+sushi_camaron,8/1/17,bowl,sushi,5490,4990,Sushi Bowl Camarones
+sushi_kanicama,8/1/17,bowl,sushi,4990,4490,Sushi Bowl Cangrejo
+sushi_mix_atun_cangrjo,2/9/18,bowl,sushi,5690,5690,Sushi Bowl con Mix d Proteinas Cangrejo-Atun
+sushi_mix_atun_pollo,4/12/18,bowl,sushi,5690,5690,Sushi Bowl con Mix de Proteinas Atun-Pollo
+sushi_mix_atun_trucha,2/14/18,bowl,sushi,5690,5690,Sushi Bowl con Mix de Proteinas Trucha-Atun
+sushi_mix_trucha_camarones,4/10/18,bowl,sushi,5690,5690,Sushi Bowl con Mix de Proteinas Camarones-Trucha
+sushi_mix_trucha_cangrjo,1/29/18,bowl,sushi,5690,5690,Sushi Bowl con Mix de Proteinas Cangrejo-Trucha
+sushi_mix_tuna_camarones,4/17/18,sushi,bowl,5690,5690,Sushi Bowl con Mix de Proteinas Atun - Camarones
+sushi_teriaky,8/1/17,bowl,sushi,4490,3990,Sushi Bowl Pollo Teriaky
+sushi_trucha,8/1/17,bowl,sushi,5490,4990,Sushi Bowl Trucha Ahumada
+sushi_tuna,9/11/17,bowl,sushi,5490,5490,Sushi Bowl Atun Fresco
+sushi_vegetariano,8/1/17,bowl,sushi,4990,4490,Sushi Bowl Vegetariano
+te_blanco,9/21/17,bebida,refresco,1100,1100,Te Blanco 500 ml
+te_negro_limon,9/21/17,bebida,refresco,1100,1100,Te Negro Limon 500 ml
+te_negro_meloc,9/21/17,bebida,refresco,1100,1100,Te Negro Melocoton 500 ml
+coca_zero_600_salon,9/21/17,bebida,refresco,1100,1100,Coca Zero 600 ml
+coca_sprite_600_salon,9/21/17,bebida,refresco,1100,1100,Sprite 600 ml
+perers_pina_albahaca_salon,9/21/17,bebida,refresco,2400,2400,Bebida Artesanal Peres de Pina y Albahaca
+peres_hierbabuena_limon_salon,9/21/17,bebida,refresco,2400,2400,Bebida Artesanal Peres de Huerba Buena y Limon
+peres_jamaica_menta_salon,9/21/17,bebida,refresco,2400,2400,Bebida Artesanal Peres de Jamaica y Menta
+peres_jengibre_limon_salon,9/21/17,bebida,refresco,2400,2400,Bebida Artesanal Peres de Jengibre y Limon
+peres_maracuya_salon,9/21/17,bebida,refresco,2400,2400,Bebida Artesanal Peres de Maracuya
